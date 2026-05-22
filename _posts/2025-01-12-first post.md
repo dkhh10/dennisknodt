@@ -6,6 +6,7 @@ tags:
 image: /assets/img/1F825611-7AA2-44B0-91D5-D9579589AE9C_1_105_c.jpeg
 description: Okay so this is my first personal website. Not owned by any of the big companies.
 ---
+
 # Welcome to my blog
 
 Okay so this is my first personal website. Not owned by any of the big companies.
