@@ -4,7 +4,7 @@ date: 2024-08-28 09:00:00 +0200
 categories: [Entrepreneurship, Sales]
 tags: [sales, deals, negotiation, valuent]
 image:
-  path: https://cdn-images-1.medium.com/max/800/1*usoVFuChQ9ia0FeNDO-h4w.jpeg
+  path: /assets/img/medium/turning-a-molehill-into-a-mountain-how-i-turned-a-little-problem-into-a-huge-business-deal-part-1-2-1.jpeg
   alt: "Bike rides in France."
 description: "Part one of how a small problem — getting an employee a leased bike — snowballed into a huge business deal."
 ---

@@ -4,7 +4,7 @@ date: 2025-01-21 09:00:00 +0100
 categories: [Writing]
 tags: [writing, creativity, habits]
 image:
-  path: https://cdn-images-1.medium.com/max/800/1*dbDpr8EhYMid1BCmyHqIXg.jpeg
+  path: /assets/img/medium/why-writing-felt-like-a-guilty-pleasure-until-i-let-myself-embrace-it-1.jpeg
   alt: "I like to write outside. This photo was taken on the beach in Ko Samui."
 description: "For years I felt like writing wasn't productive — here's how I stopped feeling guilty and started enjoying the process."
 ---

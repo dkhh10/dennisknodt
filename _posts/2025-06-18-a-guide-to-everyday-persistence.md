@@ -4,7 +4,7 @@ date: 2025-06-18 09:00:00 +0200
 categories: [Personal Growth]
 tags: [persistence, mindset, productivity]
 image:
-  path: https://cdn-images-1.medium.com/max/800/1*Egb6jHmniDpTYns0a-dYbw.png
+  path: /assets/img/medium/a-guide-to-everyday-persistence-1.png
   alt: "Inspired by the pink polo hat story — illustrated with ChatGPT-4o"
 description: "The underrated skill founders, operators, and creators quietly master."
 ---

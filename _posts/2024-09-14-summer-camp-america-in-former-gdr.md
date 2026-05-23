@@ -4,7 +4,7 @@ date: 2024-09-14 09:00:00 +0200
 categories: [Life]
 tags: [personal, memoir, germany, childhood]
 image:
-  path: https://cdn-images-1.medium.com/max/800/1*UZuMyCRe3Nml5R4g5fm10Q.jpeg
+  path: /assets/img/medium/summer-camp-america-in-former-gdr-1.jpeg
   alt: "Summer Camp America in Former GDR"
 description: "A childhood memoir: how an 11-year-old expecting a Disneyland-style 'America Camp' ended up at a run-down camp in the former GDR."
 ---

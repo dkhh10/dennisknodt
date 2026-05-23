@@ -4,7 +4,7 @@ date: 2025-04-17 09:00:00 +0200
 categories: [Writing]
 tags: [writing, craft, quality]
 image:
-  path: https://cdn-images-1.medium.com/max/800/1*9xbSovUUQoQ8NRwBxlZDfw.jpeg
+  path: /assets/img/medium/what-writing-taught-me-about-quality-1.jpeg
   alt: "Writing by hand slowed my mind. It rewired how I see quality."
 description: "What learning to write by hand taught me about slowing down and the value of quality work."
 ---

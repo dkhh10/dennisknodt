@@ -4,12 +4,12 @@ date: 2024-06-10 09:00:00 +0200
 categories: [Entrepreneurship, Founding Story]
 tags: [valuent, startups, founding story, sales]
 image:
-  path: https://cdn-images-1.medium.com/max/800/0*V9TwbQUASPIAlqVj
+  path: /assets/img/medium/kebabs-to-vietnam-part-3-3-from-freelancers-to-founders-the-story-of-our-first-big-win-1.png
   alt: "Berlin to Minsk."
 description: "Part three of the Valuent founding story: from freelancers to founders, and the story of our first big win."
 ---
 
-![David at Stralauer Allee meeting room — Thanks WeWork and Adam Neumann ;-)](https://cdn-images-1.medium.com/max/800/1*Vj-oz3Vaf0HWbyMYmkKS2w.jpeg)
+![David at Stralauer Allee meeting room — Thanks WeWork and Adam Neumann ;-)](/assets/img/medium/kebabs-to-vietnam-part-3-3-from-freelancers-to-founders-the-story-of-our-first-big-win-2.jpeg)
 
 _David at Stralauer Allee meeting room — Thanks WeWork and Adam Neumann ;-)_
 
@@ -41,7 +41,7 @@ Incredible. The best technical guy David had ever worked with has a catchphrase.
 
 A couple hours later I’m at the hotel lounge in Minsk, waiting to meet Pavel for the first time in person. Pretty soon, a Belarusian bear walks up to me, a giant almost as wide as he is tall. So that is Pavel! Turns out he is kind and gentle behind his 1.9m frame. Pavel guides me to the mall next door, hundreds of Belarusians passing us left and right, we go escalator after escalator and finally arrive on the top floor. — a restaurant contrasting the mall of steel and glass. The Kitsch wallpaper made me think this is what it’s like to be in the USSR. All the young people working on their Apple MacBooks Pros couldn’t disturb me from feeling like I might as well be in a different decade. Pavel and I order beers (something I wouldn’t usually do during daytime, but when in Minsk!) and start talking–how we both started out with Salesforce, and the details of the opportunity before us. We arrange another meeting for the next morning before I fly back to Berlin.
 
-![Pavel and me in Minsk. Notice the wallpapers.](https://cdn-images-1.medium.com/max/800/0*PEdJdg_MwFLpgdYR)
+![Pavel and me in Minsk. Notice the wallpapers.](/assets/img/medium/kebabs-to-vietnam-part-3-3-from-freelancers-to-founders-the-story-of-our-first-big-win-3.jpeg)
 
 _Pavel and me in Minsk. Notice the wallpapers._
 

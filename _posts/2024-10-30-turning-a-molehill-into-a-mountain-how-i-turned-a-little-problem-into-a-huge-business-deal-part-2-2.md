@@ -3,7 +3,9 @@ title: "Turning a Molehill into a Mountain: How I turned a little problem into a
 date: 2024-10-30 09:00:00 +0100
 categories: [Entrepreneurship, Sales]
 tags: [sales, deals, negotiation, valuent]
-# image:  # add the Ihringen dinner-table photo (from your LinkedIn Part 2) to /assets/img/medium/ and set: {path: /assets/img/medium/..., alt: "..."}
+image:
+  path: /assets/img/medium/turning-a-molehill-into-a-mountain-how-i-turned-a-little-problem-into-a-huge-business-deal-part-2-2-1.jpeg
+  alt: "Summer 2020 — Matthias, Holger (co-founder of JobRad), David, and I meeting in person for the first time over dinner in Ihringen."
 description: "Part two: how a dinner in Ihringen turned a bike favor into JobRad's Salesforce transformation — and secured a future for Valuent."
 ---
 

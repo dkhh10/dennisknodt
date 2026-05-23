@@ -4,7 +4,7 @@ date: 2024-05-22 09:00:00 +0200
 categories: [Entrepreneurship, Founding Story]
 tags: [valuent, startups, founding story, sales]
 image:
-  path: https://cdn-images-1.medium.com/max/800/1*TyJxQfc_np3mr6ZiWHs2-w.jpeg
+  path: /assets/img/medium/kebabs-to-vietnam-part-2-3-how-we-got-our-very-first-client-1.jpeg
   alt: "November 2018 — Julian, David, and I at the WeWork Potsdamer Platz after discussing how to get Julian’s Salesforce setup up to speed."
 description: "Part two of the Valuent founding story: how David and I landed our very first client."
 ---
@@ -53,7 +53,7 @@ At this point, David and I still have no interest in starting a Salesforce consu
 
 Picture it: David and I sitting in my 350-Euro a month shared flat, laptops perched on a wobbly table loosely holding on to its legs (my flatmate and I broke the original glass plate while doing Raclette a few years earlier), he in his chic cable knit sweater, and me in my casual t-shirt (check out the photo if you like selfies), looking like a couple of wannabe-entrepreneurs–which we were!
 
-![The early days David (right) and me.](https://cdn-images-1.medium.com/max/800/0*i7ivT5a5ZfhxkktW)
+![The early days David (right) and me.](/assets/img/medium/kebabs-to-vietnam-part-2-3-how-we-got-our-very-first-client-2.jpeg)
 
 _The early days David (right) and me._
 

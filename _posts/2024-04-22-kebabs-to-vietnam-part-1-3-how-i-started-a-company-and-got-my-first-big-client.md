@@ -4,7 +4,7 @@ date: 2024-04-22 09:00:00 +0200
 categories: [Entrepreneurship, Founding Story]
 tags: [valuent, startups, founding story, sales]
 image:
-  path: https://cdn-images-1.medium.com/max/800/1*42SsXbLSfLDVEydOaZjWww.jpeg
+  path: /assets/img/medium/kebabs-to-vietnam-part-1-3-how-i-started-a-company-and-got-my-first-big-client-1.jpeg
   alt: "October 2018 — David, Bijan and me after discussing how to get Enpal’s Salesforce setup up to speed (Enpal solar panels in the background)."
 description: "The first article in my three-part series on building Valuent — how I started a company and landed our first big client."
 ---
