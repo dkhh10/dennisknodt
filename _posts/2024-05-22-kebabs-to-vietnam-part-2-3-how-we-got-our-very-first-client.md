@@ -39,7 +39,7 @@ Within two hours of calling Lars, I had three customer referrals in my inbox. Tu
 
 Thanks, Lars, but three projects is way more than I wanted. One was good enough. I didn’t even know what I was doing. So I call Lars again: “Dude, how does this work? Like, do we just go there and do it? Like when do we ask for money? Do we ask for money?” I already saw myself walking to this client with a suitcase to store all the money in. And then we hand it over kind of like a drug exchange, without the drugs.
 
-Lars’ new company focused on training people how to sell. And Lars is a strong teacher. So, we meet with that first client in one of the few fancy pantsy highrise buildings in Berlin for an evening session to understand what their business process should look like, what their Salesforce setup looks like and what they are hoping to get out of it, just like we had with Julian a few weeks before. But this time we didn’t come for pizza and an office tour. We came with a plan to make some money with our first paid project. And it works out.
+Lars’ new company focused on training people how to sell. And Lars is a strong teacher. So, we meet with that first client in one of the few fancy pantsy high-rise buildings in Berlin for an evening session to understand what their business process should look like, what their Salesforce setup looks like and what they are hoping to get out of it, just like we had with Julian a few weeks before. But this time we didn’t come for pizza and an office tour. We came with a plan to make some money with our first paid project. And it works out.
 
 Invoice #1 issued, 6 person days á 1200€ for a total of 7 200€ net.
 

@@ -13,7 +13,7 @@ Okay so this is my first personal website. Not owned by any of the big companies
 
 Or is it? Do I truly own this site?
 
-It's hosted on github pages.
+It's hosted on Github Pages.
 
 ## Why I started this blog
 Frankly mostly because people I admire have their own sites. 

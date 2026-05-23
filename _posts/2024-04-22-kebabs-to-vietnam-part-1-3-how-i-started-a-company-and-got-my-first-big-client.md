@@ -29,7 +29,7 @@ There were so many surprises. Looking back I find it hard to believe it all work
 
 ## Part I: Stumbling onto the right problem
 
-Back in 2016, I was sitting outside Sucre et Sel on Rosenthaler Platz, watching people, listening to the squeezing of the tram and the buzz of the city, sucking in the cliches that make the epicenter of the Berlin startup scene. Then a blonde guy with big glasses, hair gelled back, the WHU signature white shirt and a pair of slacks arrived. That was my guy.
+Back in 2016, I was sitting outside Sucre et Sel on Rosenthaler Platz, watching people, listening to the squeezing of the tram and the buzz of the city, sucking in the clichés that make the epicenter of the Berlin startup scene. Then a blonde guy with big glasses, hair gelled back, the WHU signature white shirt and a pair of slacks arrived. That was my guy.
 
 The guy I had rejected for a job at Helpling, the Rocket Internet-backed startup that I worked for after University, two weeks earlier.
 

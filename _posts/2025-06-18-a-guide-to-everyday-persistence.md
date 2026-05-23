@@ -15,7 +15,7 @@ description: "The underrated skill founders, operators, and creators quietly mas
 
 Persistence is not taking no for an answer. If you want something you find a way to get it. You navigate around the obstacle or you insist your way through it.
 
-Many people let things slide even when they don’t want to, frightened to come across as obnoxious or a jerk. It’s important to differentiate between persistence and obstinancy (more on that in Paul Graham’s essay “The Right Kind of Stubborn”). High level goals are important and one should persist as long as they make sense. But having freedom around how to get there marks the difference between persistence and obstinancy. The goal of developing your persistence muscle is not to get stuck on one way of thinking or doing things, but to think about your options. What can I make possible if I really want this?
+Many people let things slide even when they don’t want to, frightened to come across as obnoxious or a jerk. It’s important to differentiate between persistence and obstinacy (more on that in Paul Graham’s essay “The Right Kind of Stubborn”). High level goals are important and one should persist as long as they make sense. But having freedom around how to get there marks the difference between persistence and obstinancy. The goal of developing your persistence muscle is not to get stuck on one way of thinking or doing things, but to think about your options. What can I make possible if I really want this?
 
 This is persistence, and I trust your judgement to use it wisely, but people tend to err on the side of giving up too quickly, which is why I’m writing this essay.
 
@@ -27,7 +27,7 @@ If you can walk, you’ve already demonstrated persistence.
 
 But what do I know about persistence? I’m persistent, and some people find it annoying, but it has led to an interesting life and some of my best achievements. But my mom always said I have “strong will” (especially when I wouldn’t stop playing Zelda on N64), which I think of as persistence. Some of the benefits I’ve gotten out of being persistent:
 
-- A highschool exchange in Palo Alto (Silicon Valley) by sharing enthusiasm
+- A high school exchange in Palo Alto (Silicon Valley) by sharing enthusiasm
 - A 1.3 Abitur grade point average (by not accepting certain results and communicating why they mattered)
 - Getting admitted to University of St. Gallen (by finding different options to prepare yourself to maximize your chances of success)
 - Becoming a Country Manager at Helpling at the age of 25 (if you want something, ask for it)
@@ -49,7 +49,7 @@ Often people accept things too early. I can’t do this because ‘so and so’ 
 Here are some everyday situations that I’ve found useful to train the persistence muscle. Think of them as a gym, where you build up the confidence to persist when it matters later on.
 
 1. **Making dinner reservations.** Restaurant says, “we are full.” I say, “no problem, we’re just two people and happy to sit at the bar.” Still full. “Omg you guys were highly recommended. Is there a chance to come half an hour earlier or later that would help you?” When they don’t talk, just shut up and wait. When they say “no” again, say “we only need 90 mins. Is there any chance?” They usually think and look for options and at least in 30% of the cases I still get a table at the restaurant, despite them initially saying they are full.
-2. **Asking for a neighborhood discount when you make a purchase**. I live close to Kudamm, a Berlin street that’s cornered by LVMHs brands. So I’m looking to buy a new backpack. When I find the right one (695€), I ask for a neighborhood discount, to which the sales clerk responds “we don’t *usually* do that here.” All I heard was “*usually*” and that meant, it can be done. So I ask under what circumstances they do give discounts “well if you’ve made a lot of previous purchases.” … “First I need to make one, wouldn’t it be great if that was today? A small friendly neighbourhood discount would help me make a decision.” He was not ready to budge. So I tried a few different angles, until he said “Ok, we can do 5%.”
+2. **Asking for a neighborhood discount when you make a purchase**. I live close to Kudamm, a Berlin street that’s cornered by LVMHs brands. So I’m looking to buy a new backpack. When I find the right one (695€), I ask for a neighborhood discount, to which the sales clerk responds “we don’t *usually* do that here.” All I heard was “*usually*” and that meant, it can be done. So I ask under what circumstances they do give discounts “well if you’ve made a lot of previous purchases.” … “First I need to make one, wouldn’t it be great if that was today? A small friendly neighborhood discount would help me make a decision.” He was not ready to budge. So I tried a few different angles, until he said “Ok, we can do 5%.”
 
 ## What’s holding you back and how to make it fun
 

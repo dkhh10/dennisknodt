@@ -73,7 +73,7 @@ At least they have blankets, so I can dream of pampers that night. But by the ti
 
 The next day, a hike takes us past an electric fence that separates us from the cows and I wonder what would happen if I peed on the fence. Instead I just touch it with my finger. “Ouch, that hurt.”
 
-As we trudge along the trail on the way back to camp, Jan-Benedict and I hang back and make a plan. We’re going to buy some sweets and call our parents. We will tell them how terrible this camp is. It has nothing to do with America. In fact it’s the opposite, it’s a bunch of kids who call us “Wessis,” there are dangerous electric fences around us, and we don’t like it one single bit. We’ll tell them to pick us up immediately. My mom will storm out of our apartment, hurry down the stairs with her car keys in hand to come rescue us. And we’ll eat M&Ms and Gummibears while we wait for them.
+As we trudge along the trail on the way back to camp, Jan-Benedict and I hang back and make a plan. We’re going to buy some sweets and call our parents. We will tell them how terrible this camp is. It has nothing to do with America. In fact it’s the opposite, it’s a bunch of kids who call us “Wessis,” there are dangerous electric fences around us, and we don’t like it one single bit. We’ll tell them to pick us up immediately. My mom will storm out of our apartment, hurry down the stairs with her car keys in hand to come rescue us. And we’ll eat M&Ms and gummy bears while we wait for them.
 
 When we arrive back at the camp, we go to the common room in the main building, a room as depressing as that entire camp. High ceilings, a single layer of thin glass (I’d be afraid if I knocked on it, I’d get hurt), dark greenish vintage wallpapers, little lighting–it all reminds me of a hunting place, but not well kept. Right next to the bar in the common room there is a metal coin-operated telephone with a pink Telekom receiver. It’s a Clubtelefon 5 from 1995, probably the most modern thing in this entire camp. And we are grateful it’s there. Because this is our ticket to freedom, our ticket to leave this terrible fake-America camp (that doesn’t even try to be American) and the mean kids behind.
 
@@ -85,7 +85,7 @@ I call my mom. I tell her about the uncomfortable beds, the mean kids that call 
 
 “Ah Dennis, I understand. But look, it’s really far away and I am sure it will get better.”
 
-“No! Nothing will get better. It sucks. It’s boring. I want to play Ninendo and I don’t want to be here. Please pick us up now.”
+“No! Nothing will get better. It sucks. It’s boring. I want to play Nintendo and I don’t want to be here. Please pick us up now.”
 
 I grasp the phone to my ear, looking intensely around the room, when I meet Jan-Benedict’s eyes that turns into a desperate look and he looks back clueless. My mom sighs:
 
@@ -135,7 +135,7 @@ We cried and called them again, but the answer stayed the same: “We cannot pic
 
 We had to spend an entire week with these lunatics.
 
-But the absolute highlight is on the last night of the camp. There is a big party in an old barn, they have lots of chips, gummi bears and Dickmanns. I already loved parties at a young age. But that wasn’t the highlight. The highlight was a 15 year old boy pulling Jan-Benedict and me away from the candies, asking us to go outside and look at the sky. What a romantic dude.
+But the absolute highlight is on the last night of the camp. There is a big party in an old barn, they have lots of chips, gummy bears and Dickmanns. I already loved parties at a young age. But that wasn’t the highlight. The highlight was a 15 year old boy pulling Jan-Benedict and me away from the candies, asking us to go outside and look at the sky. What a romantic dude.
 
 “You guys see this? You see the red moon and the red sky. You know what that means?”
 
