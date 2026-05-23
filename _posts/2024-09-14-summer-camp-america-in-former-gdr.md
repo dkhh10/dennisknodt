@@ -1,5 +1,5 @@
 ---
-title: "Summer Camp America in Former GDR"
+title: "Summer camp America in former GDR"
 date: 2024-09-14 09:00:00 +0200
 categories: [Life]
 tags: [personal, memoir, germany, childhood]

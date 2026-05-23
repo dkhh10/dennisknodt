@@ -1,5 +1,5 @@
 ---
-title: "Kebabs to Vietnam Part 1/3: How I Started a Company and Got My First Big Client"
+title: "Kebabs to Vietnam Part 1/3: How I started a company and got my first big client"
 date: 2024-04-22 09:00:00 +0200
 categories: [Entrepreneurship, Founding Story]
 tags: [valuent, startups, founding story, sales]

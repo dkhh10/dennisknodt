@@ -1,5 +1,5 @@
 ---
-title: "Kebabs to Vietnam Part 3/3: From Freelancers to Founders–The Story of Our First Big Win"
+title: "Kebabs to Vietnam Part 3/3: From freelancers to founders — the story of our first big win"
 date: 2024-06-10 09:00:00 +0200
 categories: [Entrepreneurship, Founding Story]
 tags: [valuent, startups, founding story, sales]

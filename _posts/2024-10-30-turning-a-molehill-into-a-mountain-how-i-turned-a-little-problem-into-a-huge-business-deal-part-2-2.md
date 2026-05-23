@@ -1,5 +1,5 @@
 ---
-title: "Turning a Molehill into a Mountain: How I turned a little problem into a huge business deal Part 2/2"
+title: "Turning a molehill into a mountain: How I turned a little problem into a huge business deal Part 2/2"
 date: 2024-10-30 09:00:00 +0100
 categories: [Entrepreneurship, Sales]
 tags: [sales, deals, negotiation, valuent]

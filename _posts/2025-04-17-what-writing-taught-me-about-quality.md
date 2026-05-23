@@ -1,5 +1,5 @@
 ---
-title: "What Writing Taught Me About Quality"
+title: "What writing taught me about quality"
 date: 2025-04-17 09:00:00 +0200
 categories: [Writing]
 tags: [writing, craft, quality]

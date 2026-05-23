@@ -1,5 +1,5 @@
 ---
-title: "Why Writing Felt Like a Guilty Pleasure Until I Let Myself Embrace It"
+title: "Why writing felt like a guilty pleasure until I let myself embrace it"
 date: 2025-01-21 09:00:00 +0100
 categories: [Writing]
 tags: [writing, creativity, habits]
