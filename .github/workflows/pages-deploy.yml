@@ -22,9 +22,16 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
+env:
+  SITE_URL: https://dennisknodt.com
+  # Public by design: it must match the key file served at the site root
+  INDEXNOW_KEY: f7bfb986cdb763b822c854427d7c5a57
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    outputs:
+      indexnow_urls: ${{ steps.indexnow.outputs.urls }}
 
     steps:
       - name: Checkout
@@ -56,6 +63,22 @@ jobs:
             \-\-disable-external \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
+      # Compares this build with the manifest of the live site and publishes a new manifest.
+      # Never fails the build: on any error, nothing is submitted.
+      - name: Find URLs changed for IndexNow
+        id: indexnow
+        continue-on-error: true
+        run: |
+          site_dir="_site${{ steps.pages.outputs.base_path }}"
+          if [ "$(cat "$site_dir/$INDEXNOW_KEY.txt" 2>/dev/null)" != "$INDEXNOW_KEY" ]; then
+            echo "::warning::IndexNow key file missing or mismatched, skipping"
+            echo "urls=[]" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          urls=$(ruby tools/indexnow-diff.rb "$site_dir" "$SITE_URL" \
+            "$SITE_URL/indexnow-manifest.json?run=${{ github.run_id }}") || urls="[]"
+          echo "urls=$urls" >> "$GITHUB_OUTPUT"
+
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -71,3 +94,27 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  indexnow:
+    runs-on: ubuntu-latest
+    needs: [build, deploy]
+    if: needs.build.outputs.indexnow_urls != '' && needs.build.outputs.indexnow_urls != '[]'
+    steps:
+      # Logs the response, never fails the workflow:
+      # 200/202 = ok, 403 = key file not found or mismatched,
+      # 422 = URL/key problem, 429 = too many requests
+      - name: Submit changed URLs to IndexNow
+        continue-on-error: true
+        env:
+          URLS: ${{ needs.build.outputs.indexnow_urls }}
+        run: |
+          echo "Submitting:"; echo "$URLS" | jq -r '.[]'
+          body=$(jq -n --argjson urls "$URLS" \
+            --arg host "${SITE_URL#https://}" --arg key "$INDEXNOW_KEY" \
+            --arg keyLocation "$SITE_URL/$INDEXNOW_KEY.txt" \
+            '{host: $host, key: $key, keyLocation: $keyLocation, urlList: $urls}')
+          code=$(curl -s -o response.txt -w "%{http_code}" -X POST \
+            -H "Content-Type: application/json; charset=utf-8" \
+            --data "$body" https://api.indexnow.org/indexnow) || code="request failed"
+          echo "IndexNow responded: HTTP $code"
+          cat response.txt 2>/dev/null || true
