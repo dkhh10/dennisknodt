@@ -4,7 +4,7 @@ date: 2024-06-10 09:00:00 +0200
 categories: [Entrepreneurship, Founding Story]
 tags: [valuent, startups, founding story, sales]
 image:
-  path: /assets/img/medium/kebabs-to-vietnam-part-3-3-from-freelancers-to-founders-the-story-of-our-first-big-win-1.png
+  path: /assets/img/medium/kebabs-to-vietnam-part-3-3-from-freelancers-to-founders-the-story-of-our-first-big-win-1.jpeg
   alt: "Berlin to Minsk."
 description: "Part three of the Valuent founding story: from freelancers to founders, and the story of our first big win."
 ---
